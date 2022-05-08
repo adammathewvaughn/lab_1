@@ -7,7 +7,7 @@ def extract_from_list(elements):
     What you will do: extract the 3 from the first list of numbers, the 3 from the second list of numbers, and the 6 from the last list of numbers.
     Yes this is a list of lists
     """
-    return None
+    return elements
 
 print(extract_from_list([[3,2,6], [4,9,3], [9,6,3]]))
 
